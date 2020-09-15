@@ -2,19 +2,22 @@ body {
   background-color: #ffb3ec;
 }
 
+
+#shoe {
+  background: #ff99e7;
+  width: 150px;
+  color: #ffccf3;
+  font-size: 30px;
+  padding: 50px;
+  border: 7px solid #cc0099;
+}
+
 h1 {
   color: #ff4dd2;
   margin-left: 20px;
   text-shadow: 0 0 3px #FF0000;
 }
 
-#waterboard {
-  font-size: 20px;
-  padding: 50px;
-  border: 7px solid #cc0099;
-  background-color: #ff99e6;
-  width: 150px;
-}
 .serif {
   font-family: "Times New Roman", Times, serif;
 }
